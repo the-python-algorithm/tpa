@@ -15,3 +15,4 @@ The categories of algorithms are listed below:
 ** Graph
 * String Manipulation
 * Bit Operations
+* Math Operations
