@@ -18,7 +18,7 @@ class BubbleSort:
         self._func = func
 
     def __call__(self, data_list, asc=True, func=None):
-        self.bubble_sort(data_list, asc=True, func=func)
+        self.bubble_sort(data_list, asc, func)
 
     def bubble_sort(self, data_list, asc=True, func=None):
         """
